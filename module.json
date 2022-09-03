@@ -6,9 +6,9 @@
   "authors": [],
   "url": "https://github.com/jopeek/fvtt-dndbeyond-character-sheet",
   "flags": {},
-  "version": "1.9.0",
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "10",
+  "version": "1.8.4",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
   "scripts": [],
   "esmodules": [
     "/dndbeyond-character-sheet.js"
@@ -23,8 +23,8 @@
   ],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-dndbeyond-character-sheet/master/module.json",
-  "download": "https://github.com/jopeek/fvtt-dndbeyond-character-sheet/archive/master.zip",
+  "manifest": "https://raw.githubusercontent.com/NullOrNaN/fvtt-dndbeyond-character-sheet/edit/master/module.json",
+  "download": "https://github.com/jopeek/fvtt-dndbeyond-character-sheet/archive/8974b10c964f2ea3394819e0e2f86d108bfd2bd8.zip",
   "protected": false,
   "coreTranslation": false
 }
