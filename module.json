@@ -23,7 +23,7 @@
   ],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/NullOrNaN/fvtt-dndbeyond-character-sheet/edit/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/NullOrNaN/fvtt-dndbeyond-character-sheet/8974b10c964f2ea3394819e0e2f86d108bfd2bd/module.json",
   "download": "https://github.com/jopeek/fvtt-dndbeyond-character-sheet/archive/8974b10c964f2ea3394819e0e2f86d108bfd2bd8.zip",
   "protected": false,
   "coreTranslation": false
